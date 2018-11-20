@@ -1,0 +1,7 @@
+c:\users\root\source\repos\E4-3\E4-3\bin\Debug\E4-3.exe.config
+c:\users\root\source\repos\E4-3\E4-3\bin\Debug\E4-3.exe
+c:\users\root\source\repos\E4-3\E4-3\bin\Debug\E4-3.pdb
+c:\users\root\source\repos\E4-3\E4-3\obj\Debug\E4-3.csprojAssemblyReference.cache
+c:\users\root\source\repos\E4-3\E4-3\obj\Debug\E4-3.csproj.CoreCompileInputs.cache
+c:\users\root\source\repos\E4-3\E4-3\obj\Debug\E4-3.exe
+c:\users\root\source\repos\E4-3\E4-3\obj\Debug\E4-3.pdb
